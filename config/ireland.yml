@@ -1,0 +1,11 @@
+default: &default
+  timezone: America/Sao_Paulo
+
+development:
+  <<: *default
+
+test:
+  <<: *default
+
+production:
+  <<: *default
