@@ -1,5 +1,6 @@
 default: &default
   timezone: America/Sao_Paulo
+  language: pt-BR
 
 development:
   <<: *default
