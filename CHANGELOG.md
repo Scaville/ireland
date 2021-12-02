@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Added `pry-byebug` dependency in development environment.
 - Added custom configurations using `config/ireland.yml`
+- Added `Brazilian Portuguese` translation
 ### Changed
 
 ### Fixed
