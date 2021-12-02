@@ -2,6 +2,10 @@ default: &default
   timezone: America/Sao_Paulo
   language: pt-BR
 
+  redis:
+    url: redis://localhost:6379/0/ireland
+    expires: 60
+
 development:
   <<: *default
 

@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Added `Brazilian Portuguese` translation
 - Added and configured `Rspec`
 - Added and configured `FactoryBot`
+- Added and configured `Redis` cache store
 ### Changed
 - Removed Minitest
 ### Fixed
