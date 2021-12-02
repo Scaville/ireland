@@ -1,14 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+IRELAND is a microservice of people and customers management.
 
-Things you may want to cover:
+---
 
 * Ruby version
-
+`3.0.1`
 * System dependencies
-
+  - Production Environment
+    - Rails 6+
+  - Development Environment
+    - Rails 6+
+  - CI Environment
+    - Rails 6+
+  - Test Environment
+    - Rails 6+
 * Configuration
 
 * Database creation
@@ -21,4 +27,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+---
+(C) 2021 - SCAVILLE
+www.scaville.com
