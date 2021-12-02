@@ -16,7 +16,8 @@ IRELAND is a microservice of people and customers management.
   - Test Environment
     - Rails 6+
 * Configuration
-
+  - Custom configurations
+    - To use custom configurations, you can put your configurations in file `config/ireland.yml` and in point of use, you can call `Ireland.config` to access this configurations using the environments.
 * Database creation
 
 * Database initialization
