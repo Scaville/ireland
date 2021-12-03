@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Added and configured `Rspec`
 - Added and configured `FactoryBot`
 - Added and configured `Redis` cache store
+- Added and configured `Rubocop`
 ### Changed
 - Removed Minitest
 ### Fixed
